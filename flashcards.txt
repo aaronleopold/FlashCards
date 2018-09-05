@@ -1,0 +1,51 @@
+Java: A Programming Language
+
+Recursive Functions: A recursive function (DEF) is a function which either calls itself or is in a potential cycle of function calls.  As the definition specifies, there are two types of recursive functions.
+
+Private: A private member is only accessible within the same class as it is declared.
+
+Public: A public member is accessible to all classes (unless it resides in a module that does not export the package it is declared in).
+
+Array: An ordered list of items of given data type. It is an example of a low level container.
+
+Return Statement: Using the "return" keyword, a method may return one value using a return statement.
+
+Do-While Loop: A loop construct that first executes the loop body's statements, then checks the loop condition.
+
+For Loop: A loop with three parts. A loop variable initialization, a loop expression, and a loop variable update. A for loop will iterate through each element (loop variable) in an array or collection.
+
+Increment Operator: ("++") An operator that will increment a variable by 1. i++ --> i = i + 1.
+
+Decremement Operator: ("--") An operator that will decrement a variable by 1. i-- --> i = i - 1.
+
+Enhanced For Loop: Also known as a for each loop, will declare a new variable that will be assigned with each successive element of a container object. This allows elements to be accessed forward from the first element to the last element.
+
+Nested Loop: A loop that appearss in the body of another loop. Commonly referred to as inner or outer loops.
+
+Break Statement: Causes immediate exit of the loop.
+
+Continue Statement: Causes an immediate jump to the loop condition check.
+
+Stack Overflow: A stack frame extends beyond the memory region allocated for stack.
+
+Stack: Each method call places a new stack frame, for local parameters, local variables and more method items to be stored. Upon return, the frame is deleted.
+
+Mutator Method: A method that may modift ("mutate") the class' fields.
+
+Accessor Method: A method that accesses fields but may not modify them.
+
+Setter Method: Another name for a mutator method.
+
+Getter Method: Another name for an accessor method.
+
+Derived Class: A class that inherits the properties of its base class.
+
+Unified Modeling Language (UML): Programmers commonly draw class inheritance relationships using this notation.
+
+OutputStream: A class that supports output. It provides several overloaded methods for writing a sequence of bytes to a destination.
+
+InputStream: A class for receiving input data. It provides several overloaded read() methods that allow a programmer to extract bytes from a particular source.
+
+Throws Clause: Tells the Java virtual machine that the corresponding method may exit unexpectedly due to an exception.
+
+Exception: an event that disrupts a program's execution.
